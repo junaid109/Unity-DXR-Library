@@ -1,0 +1,27 @@
+{
+  "width" : 500,
+  "height" : 500,
+  "depth" : 500,
+  "data" : {
+    "url" : "cereals.csv"
+  },
+  "mark" : "cube",
+  "encoding" : {
+    "x" : {
+      "field" : "undefined",
+      "type" : "quantitative"
+    },
+    "y" : {
+      "field" : "undefined",
+      "type" : "quantitative"
+    },
+    "z" : {
+      "field" : "undefined",
+      "type" : "quantitative"
+    },
+    "color" : {
+      "field" : "undefined",
+      "type" : "nominal"
+    }
+  }
+}
