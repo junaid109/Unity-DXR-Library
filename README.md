@@ -1,6 +1,6 @@
 ### DXR: An Immersive Visualization Toolkit
 This project is a fork of DXR Library from: https://github.com/ronellsicat/DxR/tree/standalone
-I will be updating the project to support MRTK V2 for the Holo-Lens 2 headset.
+I will be updating the project to support upgraded MRTK AND UNITY 2021.3.20f for mixed reality heads.
 
 DXR is a Unity package that makes it easy to create immersive data visualizations in XR (Augmented/Mixed/Virtual Reality). A visualization in DXR is a collection of Unity game objects whose visual properties (position, color, size, etc.) can be mapped to data attributes. The designer can specify this mapping interactively at runtime via a graphical user interface (GUI) or via a high-level programming interface, inspired by [Polestar](http://vega.github.io/polestar/) and [Vega-Lite](http://vega.github.io/vega-lite/), respectively. DXR is extensible, allowing the use of most Unity game objects for custom marks and channels. To learn more, check out the example and gallery previews below, as well as the DXR website:
 
